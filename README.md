@@ -2,6 +2,7 @@
 
 1 : neurons = [ 30 | 50 | 1 ]
     activation = all sigmoid 
-2 : neurons = [ 30 | 50 | 1 ]
+    \n
+2 : neurons = [ 30 | 250 | 1 ]
     lr : 1.5
     activation = softplus and sigmoid
